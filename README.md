@@ -1,4 +1,4 @@
-# Movie Genre TF-IDF
+# Movie Genre Classifier using TF-IDF and Naive Bayes
 
 This project is an implementation of a movie genre classifier using [TF-IDF](https://scikit-learn.org/1.5/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html) and [Naive Bayes](https://scikit-learn.org/1.5/modules/naive_bayes.html)
 
